@@ -1,2 +1,2 @@
-# CARNet
+# CARNet:The source code will be made publicly available soon, please waiting...
 python
